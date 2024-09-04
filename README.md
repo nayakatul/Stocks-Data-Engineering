@@ -1,6 +1,6 @@
-# Stocks Near-Real-Time Data Analysis and Visualization Project
+# Near-Real-Time Top 20 US Stock Analysis and Visualization Project
 
-[**Check out my project here**:](https://lookerstudio.google.com/s/mlcM0PCyGzk)
+[**Check out my project here**](https://lookerstudio.google.com/s/mlcM0PCyGzk)
 
 **Overview**
 
