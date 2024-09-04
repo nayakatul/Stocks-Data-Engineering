@@ -12,6 +12,6 @@ I am using Google Cloud Engine to run Airflow in a Docker container spun up usin
 
 **Architecture and Data Flow**
 
-![alt text]https://github.com/nayakatul/Stocks-Data-Engineering/blob/main/Stocks_data_Arch-Diagram.png
+![alt text](https://github.com/nayakatul/Stocks-Data-Engineering/blob/main/Stocks_data_Arch-Diagram.png)
 
 
