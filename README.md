@@ -1,5 +1,6 @@
 # Stocks Near-Real-Time Data Analysis and Visualization Project
 
+[**Check out my project here**:](https://lookerstudio.google.com/s/mlcM0PCyGzk)
 
 **Overview**
 
@@ -17,6 +18,17 @@ I am using Google Cloud Engine to run Airflow in a Docker container spun up usin
 ![alt text](https://github.com/nayakatul/Stocks-Data-Engineering/blob/main/Stocks_data_Arch-Diagram.png)
 
 
-[**Check out my project here**:](https://lookerstudio.google.com/s/mlcM0PCyGzk)
+
+**Technology Stack**
+
+•	Programming Language: Python, SQL
+•	APIs (Data Source): Alpaca
+•	Containerization: Docker, Docker Compose
+•	Database: Google BigQuery
+•	Orchestrator: Apache Airflow 
+•	Data Visualization: Looker Studio
+•	Cloud Platform: Google Cloud Platform (GCP)
+•	Development Environment: Visual Studio Code (VS Code) with “Remote Development” Extension
+
 
 
