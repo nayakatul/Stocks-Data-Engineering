@@ -21,14 +21,14 @@ I am using Google Cloud Engine to run Airflow in a Docker container spun up usin
 
 **Technology Stack**
 
-•	Programming Language: Python, SQL
-•	APIs (Data Source): Alpaca
-•	Containerization: Docker, Docker Compose
-•	Database: Google BigQuery
-•	Orchestrator: Apache Airflow 
-•	Data Visualization: Looker Studio
-•	Cloud Platform: Google Cloud Platform (GCP)
-•	Development Environment: Visual Studio Code (VS Code) with “Remote Development” Extension
+- Programming Language: Python, SQL
+- APIs (Data Source): Alpaca
+- Containerization: Docker, Docker Compose
+-	Database: Google BigQuery
+-	Orchestrator: Apache Airflow 
+-	Data Visualization: Looker Studio
+-	Cloud Platform: Google Cloud Platform (GCP)
+-	Development Environment: Visual Studio Code (VS Code) with “Remote Development” Extension
 
 
 
