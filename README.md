@@ -1,8 +1,8 @@
-****Stocks Near-Real-Time Data Analysis and Visualization Project****
+# Stocks Near-Real-Time Data Analysis and Visualization Project
 
 
-**Overview
-**
+**Overview**
+
 In this project, I am running ETL pipelines using Apache Airflow to collect (6 years of historical + near real-time) stock data from the Alpaca API, process it, and store it in two Google BigQuery tables:
 
 •	Table 1: Stores 1-day interval stock data (One-time ETL run + incremental ETL runs daily).
